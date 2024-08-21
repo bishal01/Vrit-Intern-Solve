@@ -24,7 +24,7 @@ const GetInfo = () => {
     <>
     
 
-<div class="relative overflow-x-auto mt-[30vh] ">
+<div class="relative overflow-x-auto mt-[20vh] ">
     <h1 className='text-center font-extrabold text-3xl mb-[2vh]  ' > List Of Our Employee </h1>
     <p className='text-center font-bold text-xl mb-[5vh] ' > Test Done Using Jest , To check Api write npm test in terminal , thank you for reading 😊 </p>
     <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
