@@ -30,10 +30,6 @@ Task 4:  Given an array nums and an integer K, return the number of good subarra
 Task 5:  You are given an integer array nums and you have to return a new counts array where counts[i] is the number of smaller elements to the right of nums[i]
 
 
-Once you’ve completed the task, we kindly request that you share the GitHub link. For the problem-solving part, please send your JavaScript file to dipika@vrittechnologies.com  and shirish@vrittechnologies.com. 
-Thank you for your efforts!
-
-
 
 
 Set B: 
@@ -68,5 +64,3 @@ Test the login process to ensure that users are properly authenticated and redir
 Task 5: You are given an integer array nums and you have to return a new counts array where counts[i] is the number of smaller elements to the right of nums[i].
 
 
-Once you’ve completed the task, we kindly request that you share the GitHub link. For the problem-solving part, please send your JavaScript file to dipika@vrittechnologies.com  and shirish@vrittechnologies.com. 
-Thank you for your efforts!
